@@ -24,3 +24,4 @@ Added secret features
 A little more stability
 Fixed production issues
 Memory optimization
+Simple but important
