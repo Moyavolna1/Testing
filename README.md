@@ -20,3 +20,4 @@ Improved code readability
 Updated dependencies
 Fixed small bugs
 Preparing for the next release
+Added secret features
