@@ -16,3 +16,4 @@ Added support for new feature
 Saved the progress
 Added tests
 Changed logic design
+Improved code readability
