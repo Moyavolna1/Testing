@@ -18,3 +18,4 @@ Added tests
 Changed logic design
 Improved code readability
 Updated dependencies
+Fixed small bugs
