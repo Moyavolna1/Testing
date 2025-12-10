@@ -19,3 +19,4 @@ Changed logic design
 Improved code readability
 Updated dependencies
 Fixed small bugs
+Preparing for the next release
