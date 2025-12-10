@@ -11,3 +11,4 @@ Removed junk files
 Updated documentation
 Cleaned up module imports
 Fixed a typo in the code
+A little magic for stability
