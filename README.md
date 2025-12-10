@@ -8,3 +8,4 @@ A bit of code refactoring
 Added comments for future me
 Optimized a function, now it flies
 Removed junk files
+Updated documentation
