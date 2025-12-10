@@ -6,3 +6,4 @@ Added a missing file
 Syntax fixed, now everything works
 A bit of code refactoring
 Added comments for future me
+Optimized a function, now it flies
