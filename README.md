@@ -15,3 +15,4 @@ A little magic for stability
 Added support for new feature
 Saved the progress
 Added tests
+Changed logic design
